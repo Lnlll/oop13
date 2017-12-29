@@ -1,0 +1,6 @@
+D:\Универ\Учеб\2 курс\ооп\Lab013_OOP\Lab013_OOP\bin\Debug\Lab013_OOP.exe.config
+D:\Универ\Учеб\2 курс\ооп\Lab013_OOP\Lab013_OOP\bin\Debug\Lab013_OOP.exe
+D:\Универ\Учеб\2 курс\ооп\Lab013_OOP\Lab013_OOP\bin\Debug\Lab013_OOP.pdb
+D:\Универ\Учеб\2 курс\ооп\Lab013_OOP\Lab013_OOP\obj\Debug\Lab013_OOP.exe
+D:\Универ\Учеб\2 курс\ооп\Lab013_OOP\Lab013_OOP\obj\Debug\Lab013_OOP.pdb
+D:\Универ\Учеб\2 курс\ооп\Lab013_OOP\Lab013_OOP\obj\Debug\Lab013_OOP.csprojResolveAssemblyReference.cache

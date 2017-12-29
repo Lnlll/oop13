@@ -1,0 +1,748 @@
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
+30.10.2015 9:28:30
+0: c:\$Recycle.Bin
+1: c:\Boot
+2: c:\Config.Msi
+3: c:\Documents and Settings
+4: c:\Intel
+5: c:\MSOCache
+6: c:\NVIDIA
+7: c:\PerfLogs
+8: c:\Program Files
+9: c:\Program Files (x86)
+10: c:\ProgramData
+11: c:\Python26
+12: c:\Recovery
+13: c:\searchplugins
+14: c:\System Volume Information
+15: c:\Users
+16: c:\VDRV
+17: c:\Windows
+Кол-во папок: 18
+Родительский каталог: 
+  
